@@ -1,0 +1,24 @@
+{
+  "name": "js-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "e2e-google-form.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "puppeteer": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zero85258/JS-Tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zero85258/JS-Tools/issues"
+  },
+  "homepage": "https://github.com/zero85258/JS-Tools#readme"
+}
