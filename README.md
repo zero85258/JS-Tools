@@ -4,3 +4,8 @@
 ```
 npm install
 ```
+
+# use storybook
+```
+npm run storybook
+```
