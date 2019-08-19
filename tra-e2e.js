@@ -60,4 +60,5 @@ const sleep = (ms) => {
     e.value = 223
   })
   
+  await page.click("#queryForm > div.btn-sentgroup > input")
 })();
