@@ -39,7 +39,7 @@ const sleep = (ms) => {
   page.$eval('#trainNoList1', e => {
     e.value = 218
   })
-//====
+  //====
   await page.focus('input[id=startStation2]')
   await sleep(100)
   await page.keyboard.type('7030-新城');
@@ -59,6 +59,6 @@ const sleep = (ms) => {
   page.$eval('#trainNoList4', e => {
     e.value = 223
   })
-  
+
   await page.click("#queryForm > div.btn-sentgroup > input")
 })();
